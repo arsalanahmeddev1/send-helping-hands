@@ -316,6 +316,20 @@ p {
   background-image: url(../images/tutoring/tutoring-banner.png);
 }
 
+.testimonial-banner {
+  background-image: url(../images/testimonial/image-1.png);
+}
+
+.contact-us-banner {
+  background-image: url(../images/contact-us/img-1.png);
+}
+
+.blog-banner,
+.we-help-banner,
+.what-we-do-detail-banner {
+  background-image: url(../images/blogs/img-1.png);
+}
+
 .banner-props {
   background-size: cover;
   background-repeat: no-repeat;
@@ -368,11 +382,9 @@ p {
 .image-box4,
 .image-box5,
 .image-box6 {
-  background-image: linear-gradient(
-      to bottom,
+  background-image: linear-gradient(to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)
-    ),
+      rgb(0 0 0 / 23%)),
     url(../images/box-image-1.png);
   height: 380px;
   width: 389px;
@@ -383,47 +395,37 @@ p {
 }
 
 .image-box2 {
-  background-image: linear-gradient(
-      to bottom,
+  background-image: linear-gradient(to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)
-    ),
+      rgb(0 0 0 / 23%)),
     url(../images/box-image-2.png);
 }
 
 .image-box3 {
-  background-image: linear-gradient(
-      to bottom,
+  background-image: linear-gradient(to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)
-    ),
+      rgb(0 0 0 / 23%)),
     url(../images/box-image-3.png);
 }
 
 .image-box4 {
-  background-image: linear-gradient(
-      to bottom,
+  background-image: linear-gradient(to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)
-    ),
+      rgb(0 0 0 / 23%)),
     url(../images/box-image-4.png);
 }
 
 .image-box5 {
-  background-image: linear-gradient(
-      to bottom,
+  background-image: linear-gradient(to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)
-    ),
+      rgb(0 0 0 / 23%)),
     url(../images/box-image-5.png);
 }
 
 .image-box6 {
-  background-image: linear-gradient(
-      to bottom,
+  background-image: linear-gradient(to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)
-    ),
+      rgb(0 0 0 / 23%)),
     url(../images/box-image-6.png);
 }
 
@@ -432,6 +434,7 @@ p {
   bottom: 20px;
   left: 30px;
 }
+
 /* we help end */
 /* tutor start */
 .tutor-img {
@@ -502,9 +505,10 @@ p {
   border: 1px solid;
 }
 
-.contact-form .contact-input:focus ~ #form-i {
+.contact-form .contact-input:focus~#form-i {
   color: var(--secondry-theme) !important;
 }
+
 /* contact end */
 
 /* footer  */
@@ -524,8 +528,25 @@ p {
 .lang-box-1 {
   border-right: 1px solid var(--secondry-theme);
 }
-.appointment-form input, .appointment-form select {
+
+.appointment-form input,
+.appointment-form select {
   background-color: transparent !important;
+}
+
+.address-list {
+  margin-bottom: 50px;
+}
+
+.address-list li {
+  font-size: var(--text-19);
+  font-weight: 300;
+  color: var(--primary-theme);
+}
+
+.address-list img {
+  margin-right: 15px;
+  width: 60px;
 }
 
 /*-------------- saqib styling end --------------*/
@@ -534,9 +555,11 @@ p {
 .who-wr-are-banner {
   background-image: url(../images/who-we-are-banner-bg.png);
 }
+
 .who-wr-are-banner .banner-content {
   padding: 38.5rem 0 16.5rem 0;
 }
+
 /* .card-md-img-wrap {
   width: 10rem;
   height: 10rem;
@@ -546,19 +569,24 @@ p {
   background-color: var(--light-blue);
   max-width: 8rem;
 }
+
 /* testimonals-sec start */
 .testimonials-sec {
   background-color: #f7f7f7;
 }
+
 .border-gray {
   border: 1px solid #d5dff0;
 }
+
 .testimonials-slider .slick-slide {
   margin-right: 15px;
 }
+
 .sec-heading.mb-66 {
   margin-bottom: var(--text-66);
 }
+
 /* .testimonials-sec .slick-prev::before,
 .testimonials-sec .slick-next::before,
 .tutor-sec .slick-prev::before,
@@ -600,6 +628,7 @@ p {
   cursor: pointer;
   max-width: 5.3rem;
 }
+
 /* testimonals-sec end*/
 /*-------------- arsalan styling end --------------*/
 
@@ -629,11 +658,9 @@ p {
   }
 }
 
-@media (max-width: 1200px) {
-}
+@media (max-width: 1200px) {}
 
-@media (max-width: 1024px) {
-}
+@media (max-width: 1024px) {}
 
 @media (max-width: 992px) {
   :root {
