@@ -329,6 +329,9 @@ p {
 .what-we-do-detail-banner {
   background-image: url(../images/blogs/img-1.png);
 }
+.appointment-banner {
+  background-image: url(../images/book-appointment/img-1.png);
+}
 
 .banner-props {
   background-size: cover;
@@ -547,6 +550,33 @@ p {
 .address-list img {
   margin-right: 15px;
   width: 60px;
+}
+.h-custom {
+  min-height: 1005px;
+}
+.specific1 {
+  border-radius: 30px 30px 0px 0px;
+  border-bottom: 1px solid #DEE2E6;
+}
+.specific2 {
+  border-radius: 0px 0px 30px 30px;
+}
+.price-box h2 {
+  color: var(--primary-theme);
+  font-size: var(--text-36);
+  font-weight: 700;
+}
+.price-box p {
+  font-size: var(--text-20);
+  max-width: 265px;
+  color: var(--black);
+  font-weight: 400;
+  margin-bottom: 0;
+}
+.price-box h5 {
+  font-size: var(--text-18);
+  font-weight: 800;
+  color: #2f323d;
 }
 
 /*-------------- saqib styling end --------------*/
