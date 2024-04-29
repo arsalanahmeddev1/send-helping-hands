@@ -271,5 +271,34 @@
     </div>
   </div>
 </section>
-
+<section class="our-clinics pt-120 pb-120">
+  <div class="container-fluid">
+    <h6 class="sec-title text-uppercase text-center">networks</h6>
+    <h2 class="sec-heading  text-center  ">
+      Our Clinics
+    </h2>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="clinics-card">
+          <img src="./assets/images/clinics-card/1.png" alt="">
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="clinics-card">
+          <img src="./assets/images/clinics-card/2.png" alt="">
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="clinics-card">
+          <img src="./assets/images/clinics-card/3.png" alt="">
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="clinics-card">
+          <img src="./assets/images/clinics-card/4.png" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <?php include "./include/footer.php"; ?>
