@@ -685,6 +685,32 @@ p {
   position: absolute;
 
 }
+.form-check-input:checked {
+  background-color: var(--secondry-theme);
+  border-color: transparent;
+  
+}
+.form-check-input {
+  border-color: var(--black);
+} 
+.form-check-input:focus {
+  box-shadow: none;
+}
+.text-white {
+  color: var(--default-color) !important;
+}
+.contact-input.search-input {
+  padding: 1.5rem 4rem;
+}
+.location-icon.search-icon i {
+  top: var(--text-22);
+}
+.filter-collepse-body .text-secondry-theme {
+  cursor: pointer;
+}
+/* .filter-conent {
+  display: none; 
+} */
 /*-------------- arsalan styling end --------------*/
 
 @media (max-width: 1440px) {
