@@ -630,6 +630,31 @@ p {
 }
 
 /* testimonals-sec end*/
+.our-clinics .sec-heading {
+  margin-bottom: var(--text-80);
+} 
+.find-hh-banner {
+  background-image: url(../images/tutoring/tutoring-banner.png);
+}
+.f-hh-sec-2 .sec-heading {
+  margin-bottom: var(--text-40);
+}
+.filters-wrap {
+  border: 1px solid #E2E4E7
+}
+.border-bottom-gray {
+  border-bottom: 1px solid #BBBDC4;
+}
+.location-input {
+  padding-left: var(--text-44) !important;
+
+}
+.location-icon i {
+  left: var(--text-20);
+  top: var(--text-18);
+  position: absolute;
+
+}
 /*-------------- arsalan styling end --------------*/
 
 @media (max-width: 1440px) {
