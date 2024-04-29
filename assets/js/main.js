@@ -72,3 +72,10 @@ $('.testimonials-slider').slick({
     }
   ]
 });
+
+$(document).ready(function(){
+  $(".filter-collepse-body").click(function(){
+    $(this).closest('.filter-collepse-body').find('.filter-conent').slideToggle(); // Toggle visibility of filter-conent div
+    $(this).find('.fa-solid').toggleClass('fa-angle-up fa-angle-down');
+  });
+});
