@@ -1,6 +1,6 @@
 <section class="tutor-sec light-blue-bg pt-70 pb-70">
     <div class="container-fluid">
-        <div class="d-flex justify-content-between align-items-center mb-60">
+        <div class="d-flex flex-wrap justify-content-between align-items-center mb-60">
             <div>
                 <h6 class="sec-title">TUTORS</h6>
                 <h2 class="sec-heading">Our Doctors have exceptional <br> knowledge and Skills</h2>

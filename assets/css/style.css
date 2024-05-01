@@ -180,10 +180,12 @@ input::-webkit-inner-spin-button {
 ::-webkit-scrollbar-thumb {
   background-color: var(--primary-theme);
 }
-
-body {
+html {
   overflow-x: hidden;
+}
+body {
   position: relative;
+  overflow-x: hidden;
   font-family: var(--primary-font);
   scroll-behavior: smooth;
   font-size: var(--text-16);
@@ -253,7 +255,7 @@ p {
 .sm-dot-2,
 .sm-dot-1 {
   background-color: var(--primary-theme);
-  width: 10px;
+  width: 1rem;
   height: 1rem;
   border-radius: 100%;
   margin-left: 2rem;
@@ -279,7 +281,7 @@ p {
 /*-------------- saqib styling start --------------*/
 /* hero-banner */
 .banner-content {
-  padding-top: 336px;
+  padding-top: 33.6rem;
 }
 
 .sec-title {
@@ -385,12 +387,14 @@ p {
 .image-box4,
 .image-box5,
 .image-box6 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-1.png);
-  height: 380px;
-  width: 389px;
+  min-height: 38rem;
+  max-width: 57rem;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -398,37 +402,47 @@ p {
 }
 
 .image-box2 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-2.png);
 }
 
 .image-box3 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-3.png);
 }
 
 .image-box4 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-4.png);
 }
 
 .image-box5 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-5.png);
 }
 
 .image-box6 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-6.png);
 }
 
@@ -471,8 +485,6 @@ p {
   border: 1px solid var(--light-gray);
 }
 
-
-
 /* tutor end */
 /* contact start */
 .contact-form label {
@@ -508,7 +520,7 @@ p {
   border: 1px solid;
 }
 
-.contact-form .contact-input:focus~#form-i {
+.contact-form .contact-input:focus ~ #form-i {
   color: var(--secondry-theme) !important;
 }
 
@@ -556,7 +568,7 @@ p {
 }
 .specific1 {
   border-radius: 30px 30px 0px 0px;
-  border-bottom: 1px solid #DEE2E6;
+  border-bottom: 1px solid #dee2e6;
 }
 .specific2 {
   border-radius: 0px 0px 30px 30px;
@@ -662,7 +674,7 @@ p {
 /* testimonals-sec end*/
 .our-clinics .sec-heading {
   margin-bottom: var(--text-80);
-} 
+}
 .find-hh-banner {
   background-image: url(../images/tutoring/tutoring-banner.png);
 }
@@ -670,29 +682,26 @@ p {
   margin-bottom: var(--text-40);
 }
 .filters-wrap {
-  border: 1px solid #E2E4E7
+  border: 1px solid #e2e4e7;
 }
 .border-bottom-gray {
-  border-bottom: 1px solid #BBBDC4;
+  border-bottom: 1px solid #bbbdc4;
 }
 .location-input {
   padding-left: var(--text-44) !important;
-
 }
 .location-icon i {
   left: var(--text-20);
   top: var(--text-18);
   position: absolute;
-
 }
 .form-check-input:checked {
   background-color: var(--secondry-theme);
   border-color: transparent;
-  
 }
 .form-check-input {
   border-color: var(--black);
-} 
+}
 .form-check-input:focus {
   box-shadow: none;
 }
@@ -708,9 +717,11 @@ p {
 .filter-collepse-body .text-secondry-theme {
   cursor: pointer;
 }
-/* .filter-conent {
-  display: none; 
-} */
+.close-icon i,
+.menu-icon i {
+  font-size: 2rem;
+  display: none;
+}
 /*-------------- arsalan styling end --------------*/
 
 @media (max-width: 1440px) {
@@ -735,22 +746,124 @@ p {
 
 @media (max-width: 1280px) {
   :root {
-    font-size: 48%;
+    font-size: 56%;
   }
 }
 
-@media (max-width: 1200px) {}
+@media (max-width: 1200px) {
+}
 
-@media (max-width: 1024px) {}
+@media (max-width: 1024px) {
+  .container-fluid {
+    padding: 0 1.5rem;
+  }
+
+  .topbar-para span {
+    font-size: var(--text-15);
+  }
+}
 
 @media (max-width: 992px) {
   :root {
     font-size: 46%;
+  }
+  .btn1 {
+    padding: 1.7rem 2rem;
+  }
+  .banner-content {
+    padding-top: 15rem;
+  }
+  .nav-links .gap-50 {
+    gap: var(--text-15);
+  }
+  .nav-links li a {
+    font-size: var(--text-16);
+  }
+  /* <---------mobile menu----------> */
+  .close-icon i,
+  .menu-icon i {
+    display: block;
+    z-index: 2;
+    background: var(--secondry-theme);
+    width: 3.5rem;
+    height: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    /* position: absolute;
+    top: 38px;
+    right: 10px; */
+    border-radius: 2px;
+  }
+  .close-icon i {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    border-radius: 100%;
+  }
+  .primary-navs {
+    transform: translateX(-100%);
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: all ease-in-out 1s;
+    padding: 4.4rem 0;
+  }
+  .primary-navs.active {
+    transform: translateX(0);
+    background-color: #fff;
+    width: 70%;
+    z-index: 2;
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+    overflow: auto;
+    height: 100%;
+  }
+  .menu-cont {
+    gap: var(--text-20);
+    height: calc(100vh - 100px);
   }
 }
 
 @media (max-width: 767px) {
   :root {
     font-size: 46%;
+  }
+  .sec-heading br,
+  .banner-heading br {
+    display: none;
+  }
+
+  .banner-heading {
+    font-size: var(--text-40);
+    letter-spacing: unset;
+  }
+  .mb-md-20 {
+    margin-bottom: 20px;
+  }
+  .mt-md-20 {
+    margin-top: 20px;
+  }
+  .mb-md-10 {
+    margin-bottom: 10px;
+  }
+  .mt-md-10 {
+    margin-top: 10px;
+  }
+  
+}
+@media (max-width: 575px) {
+}
+@media (max-width: 400px) {
+  .top-bar-right-login-signup {
+    background: transparent;
+    padding-right: 0;
+    padding-left: 0;
+  }
+  .topbar .container-fluid {
+    padding: 0;
   }
 }

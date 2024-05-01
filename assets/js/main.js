@@ -1,3 +1,13 @@
+// mobile menu 
+let navs = document.querySelector('.primary-navs')
+let menuIcon = document.querySelectorAll('.menu-toggle')
+console.log(navs, menuIcon);
+menuIcon.forEach(function (e) {
+    e.addEventListener('click', function () {
+        navs.classList.toggle('active');
+    });
+});
+
 /*------------------SLIDER JS START------------------*/
 
 $('.tutor-slider').slick({

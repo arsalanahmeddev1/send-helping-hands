@@ -4,10 +4,10 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-9">
-                <div class="banner-content pb-75">
+                <div class="banner-content text-center text-md-start pb-75">
                     <h5 class="fw-500 text-white fs-26 mb-30">The Greatest Wealth Is Health</h5>
                     <h1 class="banner-heading  mb-30">Maintaining Your Health <br> Is Our Way Of Taking <br> Care Of You</h1>
-                    <button class="secondry-btn bg-white btn1 text-primary-theme d-flex align-items-center pr-20">Explore More
+                    <button class="mx-auto mx-md-0  secondry-btn bg-white btn1 text-primary-theme d-flex align-items-center pr-20">Explore More
                         <div class="sm-dot-2"></div>
                     </button>
                 </div>
@@ -21,29 +21,29 @@
         <h6 class="sec-title text-center">HOW IT WORKS</h6>
         <h2 class="sec-heading text-center">Choose helping hands because</h2>
         <p class="sec-para text-center mb-60">The healthcare industry is an ever changing, competitive industry that requires care and attention. We <br> hope to introduce you to our company who is raising the bar and innovating at an incredible pace.</p>
-        <div class="row">
-            <div class="col-lg-3">
+        <div class="row row-gap-20 justify-content-center ">
+            <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="help-box pt-70 pb-36 pr-30 pl-30">
                     <h6>01</h6>
                     <h3>Consultation</h3>
                     <p>New patients can register online by providing their personal information, contact details, and medical history. This information is securely stored in the system.</p>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="help-box pt-70 pb-36 pr-30 pl-30">
                     <h6>02</h6>
                     <h3>Booking</h3>
                     <p>New patients can register online by providing their personal information, contact details, and medical history. This information is securely stored in the system.</p>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="help-box pt-70 pb-36 pr-30 pl-30">
                     <h6>03</h6>
                     <h3>Fees</h3>
                     <p>New patients can register online by providing their personal information, contact details, and medical history. This information is securely stored in the system.</p>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="help-box pt-70 pb-36 pr-30 pl-30">
                     <h6>04</h6>
                     <h3>Cancellation</h3>
@@ -56,7 +56,7 @@
 <?php include "./include/welcome.php"; ?>
 <section class="help-sec pt-90 pb-100">
     <div class="container-fluid">
-        <div class="d-flex justify-content-between align-items-center mb-60">
+        <div class="d-flex flex-wrap justify-content-between align-items-center mb-60">
             <div>
                 <h6 class="sec-title">WHO WE HELP</h6>
                 <h2 class="sec-heading">Specialist SEN support <br> for children & young adults with...</h2>

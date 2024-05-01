@@ -1,8 +1,8 @@
-<section class="navigation-sec bg-theme-default pt-41 pb-41">
+<section class="navigation-sec bg-theme-default pt-41 pb-41 d-md-block d-none">
     <div class="container-fluid">
         <div class="row ">
             <div class="nav-links">
-                <ul class="d-flex justify-content-center gap-50">
+                <ul class="d-flex   justify-content-center gap-50">
                     <li><a href="./who-we-are.php" class="text-black fs-20">Who We Help</a></li>
                     <li><a href="" class="text-black fs-20">Our Services</a></li>
                     <li><a href="" class="text-black fs-20">How It Works</a></li>

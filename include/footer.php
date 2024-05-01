@@ -30,7 +30,7 @@
           <li class=""><a href="javascript:;" class="secondry-hover text-white fw-300 fs-22">Instagram <span class="pl-20"><i class="fa-brands fa-instagram"></i></span></a></li>
         </ul>
       </div>
-      <div class="col-xl-4 col-xxl-3">
+      <div class="col-md-4 col-md-3">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Links</h4>
         <ul class="d-flex justify-content-between footer-right">
           <div>
@@ -55,7 +55,7 @@
           <img src="./assets/images/logo-light.png" alt="">
         </div>
       </div>
-      <div class="d-flex justify-content-between align-items-center  px-0 pb-15">
+      <div class="d-flex justify-content-between align-items-center  px-4 pb-15">
         <p class="text-white fw-300 fs-16">© 2024 Send Helping Hands  All Rights Reserved.</p>
         <p><a href="javascript:;" class="fs-16 fw-300 text-white secondry-hover">Privacy Policy</a> <span class="text-white px-3">|</span> <a href="javascript:;" class="fs-16 fw-300 text-white secondry-hover">Terms & Conditions</a></p>
       </div>
