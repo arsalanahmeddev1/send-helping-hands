@@ -46,9 +46,7 @@
                             <a href="javascript:;" class="text-black fs-20 ">Our Services</a>
                             <ul class="d-flex d-lg-none flex-column align-items-center  justify-content-center gap-20">
                                 <li><a href="./who-we-are.php" class="text-black fs-20">Who We Help</a></li>
-                                <li><a href="" class="text-black fs-20">Our Services</a></li>
                                 <li><a href="" class="text-black fs-20">How It Works</a></li>
-                                <li><a href="" class="text-black fs-20">Why Helping Hands</a></li>
                                 <li><a href="" class="text-black fs-20">Fees</a></li>
                                 <li><a href="" class="text-black fs-20">Information Hubs</a></li>
                                 <li><a href="./testimonial.php" class="text-black fs-20">Testimonials</a></li>

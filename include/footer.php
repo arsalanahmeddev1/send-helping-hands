@@ -1,6 +1,6 @@
 <footer class="footer bg-primary-theme pt-80 pb-36">
   <div class="container-fluid">
-    <div class="d-flex align-items-center justify-content-between pb-103">
+    <div class="d-flex justify-content-center  flex-wrap text-center text-md-start  align-items-center justify-content-md-between pb-103">
       <a href="tel:+44 1632 960355" class="text-white fw-300 fs-100 footer-cta">+44 1632 960355</a>
       <div>
         <button class="secondry-btn bg-white btn1 text-primary-theme d-flex align-items-center pr-20">Book An Appointment
@@ -8,21 +8,21 @@
         </button>
       </div>
     </div>
-    <div class="row justify-content-between ">
-      <div class="col-md-3">
+    <div class="row row-gap-s-30   justify-content-between ">
+      <div class="col-md-3 col-6">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Contact Us</h4>
         <ul class="footer-list">
           <li class="mb-30"><a href="javasctipt:;" class=" text-white fs-22 fw-300 secondry-hover">8-9 William St Knightsbridge <br> London</a></li>
-          <li><a href="mailto:Info@sendhelpinghands.com" class="secondry-hover text-white text-white fs-22 fw-300">Info@sendhelpinghands.com</a></li>
+          <li class="mb-20 mb-md-0"><a href="mailto:Info@sendhelpinghands.com" class="secondry-hover text-white text-white fs-22 fw-300">Info@sendhelpinghands.com</a></li>
         </ul>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-2 col-6">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Clinic Timing</h4>
         <ul class="footer-list">
           <li class="mb-30"><a href="javasctipt:;" class="secondry-hover text-white fs-22 fw-300 secondry-hover">8:30 a.m - 10 p.m Mon - Sun</a></li>
         </ul>
       </div>
-      <div class="col-md-2">
+      <div class="col-md-2 col-6">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Social</h4>
         <ul class="social-icons">
           <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fw-300 fs-22">Facebook <span class="pl-20"><i class="fa-brands fa-facebook-f"></i></span></a></li>
@@ -30,7 +30,7 @@
           <li class=""><a href="javascript:;" class="secondry-hover text-white fw-300 fs-22">Instagram <span class="pl-20"><i class="fa-brands fa-instagram"></i></span></a></li>
         </ul>
       </div>
-      <div class="col-md-4 col-md-3">
+      <div class="col-md-4 col-6 col-md-3">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Links</h4>
         <ul class="d-flex justify-content-between footer-right">
           <div>
@@ -50,7 +50,7 @@
 
         </ul>
       </div>
-      <div class="col-md-3 ">
+      <div class="col-md-3 col-6 ">
         <div class="footer-logo mb-30">
           <img src="./assets/images/logo-light.png" alt="">
         </div>

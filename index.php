@@ -56,8 +56,8 @@
 <?php include "./include/welcome.php"; ?>
 <section class="help-sec pt-90 pb-100">
     <div class="container-fluid">
-        <div class="d-flex flex-wrap justify-content-between align-items-center mb-60">
-            <div>
+        <div class="d-flex flex-wrap justify-content-center justify-content-md-between align-items-center mb-60">
+            <div class="text-center text-md-start ">
                 <h6 class="sec-title">WHO WE HELP</h6>
                 <h2 class="sec-heading">Specialist SEN support <br> for children & young adults with...</h2>
             </div>

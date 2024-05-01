@@ -1,8 +1,8 @@
 <section class="contact-sec pt-100 pb-100">
     <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-6">
-                <div class="mb-40">
+        <div class="row row-gap-20">
+            <div class="col-md-6">
+                <div class="mb-40 text-center text-md-start">
                     <h6 class="sec-title">CONTACT US</h6>
                     <h2 class="sec-heading">Get in Touch with us</h2>
                 </div>
@@ -30,7 +30,7 @@
                     </div>
                 </form>
             </div>
-            <div class="col-lg-6">
+            <div class="col-md-6">
                 <img src="./assets/images/contact-img.png" alt="">
             </div>
         </div>

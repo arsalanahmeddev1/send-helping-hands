@@ -381,12 +381,8 @@ p {
 
 /* hero-banner end*/
 /* we help start */
-.image-box1,
-.image-box2,
-.image-box3,
-.image-box4,
-.image-box5,
-.image-box6 {
+
+.image-box {
   background-image: linear-gradient(
       to bottom,
       rgb(0 0 0 / 0%),
@@ -770,6 +766,7 @@ p {
   .btn1 {
     padding: 1.7rem 2rem;
   }
+  .who-wr-are-banner .banner-content,
   .banner-content {
     padding-top: 15rem;
   }
@@ -826,8 +823,16 @@ p {
     gap: var(--text-20);
     height: calc(100vh - 100px);
   }
+  .footer-cta {
+    font-size: 42px !important;
+    margin-bottom: 10px;
+  } 
 }
-
+@media (max-width: 991px) {
+  .image-box {
+    max-width: 100%;
+  }
+}
 @media (max-width: 767px) {
   :root {
     font-size: 46%;
