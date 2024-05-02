@@ -3,7 +3,7 @@
 <section class="what-we-do-detail-banner banner-props">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-9">
+            <div class="col-lg-9">
                 <div class="banner-content pb-75">
                     <h1 class="banner-heading  mb-30">What we do</h1>
                 </div>
@@ -15,13 +15,13 @@
   <div class="container-fluid">
     <div class="row align-items-center justify-content-between">
       <div class="col-md-6">
-        <h6 class="sec-title text-uppercase">Anxiety </h6>
-        <h2 class="sec-heading">What is Anxiety </h2>
-        <p class="sec-para mb-20">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</p>
-        <p class="sec-para mb-20">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
-        <p class="sec-para mb-32">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
+        <h6 class="sec-title text-uppercase text-center text-md-start">Anxiety </h6>
+        <h2 class="sec-heading text-center text-md-start">What is Anxiety </h2>
+        <p class="sec-para mb-20 text-center text-md-start">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words</p>
+        <p class="sec-para mb-20 text-center text-md-start">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</p>
+        <p class="sec-para mb-32 text-center text-md-start">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-5 d-flex justify-content-md-start justify-content-center">
         <img src="./assets/images/who-we-are/sec-2-img.png" alt="">
       </div>
     </div>

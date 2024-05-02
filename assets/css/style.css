@@ -568,7 +568,7 @@ p {
   min-height: 1005px;
 }
 .specific1 {
-  border-radius: 30px 30px 0px 0px;
+  border-radius: 30px;
   border-bottom: 1px solid #dee2e6;
 }
 .specific2 {
