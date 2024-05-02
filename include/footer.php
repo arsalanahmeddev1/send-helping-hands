@@ -1,6 +1,6 @@
 <footer class="footer bg-primary-theme pt-80 pb-36">
   <div class="container-fluid">
-    <div class="d-flex justify-content-center  flex-wrap text-center text-md-start  align-items-center justify-content-md-between pb-103">
+    <div class="d-flex justify-content-center  flex-wrap text-center text-md-start  align-items-center justify-content-md-between pb-103 max-sm-wd gap-sm-5">
       <a href="tel:+44 1632 960355" class="text-white fw-300 fs-100 footer-cta">+44 1632 960355</a>
       <div>
         <button class="secondry-btn bg-white btn1 text-primary-theme d-flex align-items-center pr-20">Book An Appointment
@@ -63,10 +63,8 @@
     </div>
   </div>
 </footer>
-<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="./assets/vendor/vendor.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.js"></script>
 <script src="./assets/js/main.js"></script>
 </body>
 

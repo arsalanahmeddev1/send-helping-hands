@@ -544,21 +544,26 @@ p {
 .appointment-form select {
   background-color: transparent !important;
 }
-
-.address-list {
-  margin-bottom: 50px;
-}
-
-.address-list li {
+.address-list a {
   font-size: var(--text-19);
   font-weight: 300;
   color: var(--primary-theme);
+  display: flex;
+  align-items: center;
+  gap: var(--text-10);
+
+}
+.address-list i {
+  background-color: var(--secondry-theme);
+  width: 6rem;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  color: var(--default-color);
 }
 
-.address-list img {
-  margin-right: 15px;
-  width: 60px;
-}
 .h-custom {
   min-height: 1005px;
 }
@@ -718,6 +723,12 @@ p {
   font-size: 2rem;
   display: none;
 }
+.main-tutoring .container-fluid {
+  padding: 0 4rem;
+}
+.tutoring-details-sec-cont {
+  max-width: 84.2rem;
+}
 /*-------------- arsalan styling end --------------*/
 
 @media (max-width: 1440px) {
@@ -732,21 +743,40 @@ p {
   .footer-right {
     max-width: 320px;
   }
+  .testimonials-slider .text-primary-theme {
+    font-size: var(--text-24);
+  }
 }
 
 @media (max-width: 1366px) {
   :root {
     font-size: 56%;
   }
+  .who-we-are-sec-3 h2 {
+    font-size: var(--text-45);
+  }
+  
 }
 
 @media (max-width: 1280px) {
   :root {
     font-size: 56%;
   }
+  .testimonials-slider .text-primary-theme {
+    min-height: var(--text-55);
+  }
+  .main-tutoring .container-fluid {
+    padding: 0 2rem;
+  }
 }
 
 @media (max-width: 1200px) {
+  .main-tutoring .container-fluid {
+    padding: 0 3rem;
+  }
+  .main-tutoring .tutoring-sec .col-md-4 {
+    padding: 0;
+  }
 }
 
 @media (max-width: 1024px) {
@@ -826,7 +856,30 @@ p {
   .footer-cta {
     font-size: 42px !important;
     margin-bottom: 10px;
+  }
+  .hero-banner  .banner-content {
+    min-height: 100vh;
   } 
+  .banner-content {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center !important;
+    margin: auto;
+    padding: 0 !important;
+  }
+  .banner-props {
+    background-position: center;
+    padding: 0 !important; 
+  }
+  .w-md-100 {
+    width: 100% !important;
+  }
+  .tutoring-details-sec-cont {
+    margin: 0 auto;
+  }
 }
 @media (max-width: 991px) {
   .image-box {
@@ -858,17 +911,48 @@ p {
   .mt-md-10 {
     margin-top: 10px;
   }
-  
+  .logo {
+    max-width: 250px;
+  }
+  section {
+    padding: var(--text-70) 0 !important;
+  }
+  .banner-content {
+    min-height: 50vh;
+    max-width: 60rem;
+  }
 }
 @media (max-width: 575px) {
-}
-@media (max-width: 400px) {
+  .max-sm-wd {
+    max-width: 48.4rem;
+    margin: 0 auto;
+  }
+  .main-tutoring .tutor-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .address-list {
+    gap: 16px;
+    flex-direction: column;
+  }
   .top-bar-right-login-signup {
     background: transparent;
     padding-right: 0;
     padding-left: 0;
   }
+}
+@media (max-width: 480px) {
+  .tutoring-details-sec-cont {
+    justify-content: center !important;
+    text-align: center;
+  }
+}
+@media (max-width: 400px) {
+
   .topbar .container-fluid {
     padding: 0;
   }
+  
 }

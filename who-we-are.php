@@ -3,7 +3,7 @@
 <section class="who-wr-are-banner banner-props">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-9">
+      <div class="col-lg-9 col-md-12">
         <div class="banner-content">
 
           <h1 class="banner-heading">
@@ -18,10 +18,10 @@
 <section class="who-we-are-sec-2 pt-100 pb-110">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-lg-7">
+      <div class="col-md-7">
         <div>
           <h6 class="sec-title text-uppercase">Who we are</h6>
-          <h2 class="sec-heading">Build on the past, optimise the <br> present and maximise the future</h2>
+          <h2 class="sec-heading">Build on the past, optimise the  present and maximise the future</h2>
           <p class="sec-para mb-20">Our holistic approach to mental wellness includes comprehensive assessments, evidence- <br> based therapies, cutting-edge psychiatric treatments, and compassionate support to help <br> our clients build resilience and lead fulfilling lives.</p>
           <p class="sec-para mb-20">Our holistic approach to mental wellness includes comprehensive assessments, evidence- <br> based therapies, cutting-edge psychiatric treatments, and compassionate support to help <br> our clients build resilience and lead fulfilling lives.</p>
           <p class="sec-para mb-32">
@@ -29,19 +29,19 @@
           </p>
         </div>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-6 col-sm-4">
             <div class="number-box">
               <h5 class="fs-700 text-secondry-theme">08</h5>
               <p class="fs-300 fs-20 text-black">Years Of Experience</p>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-6 col-sm-4">
             <div class="number-box">
               <h5 class="fs-700 text-secondry-theme">120+</h5>
               <p class="fs-300 fs-20 text-black">Happy Customers</p>
             </div>
           </div>
-          <div class="col-md-4">
+          <div class="col-6 col-sm-4">
             <div class="number-box">
               <h5 class="fs-700 text-secondry-theme">500+</h5>
               <p class="fs-300 fs-20 text-black">Positive Reviews</p>
@@ -50,7 +50,7 @@
         </div>
       </div>
       <div class="col-md-5">
-        <img src="./assets/images/who-we-are/sec-2-img.png" alt="">
+        <img src="./assets/images/who-we-are/sec-2-img.png" class="mt-20 mt-md-0" alt="">
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@
   <div class="container-fluid">
     <div class="row align-items-center ">
       <div class="col-md-5">
-        <img src="./assets/images/who-we-are/sec-2-img.png" alt="">
+        <img src="./assets/images/who-we-are/sec-2-img.png" class="mb-20 mb-md-0" alt="">
       </div>
       <div class="col-md-6">
         <h6 class="sec-title text-uppercase">Our story & Vision</h6>
@@ -77,8 +77,8 @@
 
 <section class="who-we-are-sec-3 bg-primary-theme pt-100 pb-100">
   <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-6">
+    <div class="row row-gap-30">
+      <div class="col-sm-6">
         <h6 class="fw-500 fs-26 text-uppercase  mb-20 text-secondry-theme ">Our Values</h6>
         <h2 class="text-white fw-500 fs-60 mb-40">
           Throughout everything we do,
@@ -88,7 +88,7 @@
           Lorem ipsum dolor sit amet consectetur venenatis ac volutpat velviverra hendrerit sit eu tellus in ipsum sed venenatis dui a aliquam magna sem mi nullam augue quam viverra viverra ipsum.
         </p>
       </div>
-      <div class="col-md-6">
+      <div class="col-sm-6">
         <div class="card-md pt-40 pr-20 pb-40 pl-30 radius-24 bg-white mb-40">
           <div class="d-flex justify-content-between gap-20">
             <div class="card-md-img-wrap d-flex justify-content-center  align-items-center ">
@@ -147,7 +147,7 @@
 </section>
 <section class="help-sec pt-90 pb-100">
   <div class="container-fluid">
-    <div class="d-flex justify-content-between align-items-center mb-60">
+    <div class="d-flex flex-wrap justify-content-between align-items-center mb-60">
       <div>
         <h6 class="sec-title text-uppercase ">Case studies</h6>
         <h2 class="sec-heading">Specialist SEN support <br> for children & young adults with...</h2>
@@ -163,10 +163,10 @@
 </section>
 <section class="testimonials-sec pt-100 pb-100 ">
   <div class="container-fluid">
-    <h6 class="sec-title text-uppercase text-center">Testimonials</h6>
-    <h2 class="sec-heading mb-66 text-center  ">
+    <h5 class="sec-title text-uppercase text-center">Testimonials</h5>
+    <h6 class="sec-heading mb-66 text-center mx-auto  ">
       What our great clients say about us
-    </h2>
+    </h6>
     <div class="row">
       <div class="testimonials-slider mb-60">
         <div class="text-center testimonials-slider-card bg-white pt-30 pr-20 pb-30 pl-20 radius-24 border-gray">
@@ -277,7 +277,7 @@
     <h2 class="sec-heading  text-center  ">
       Our Clinics
     </h2>
-    <div class="row">
+    <div class="row row-gap-30">
       <div class="col-md-3">
         <div class="clinics-card">
           <img src="./assets/images/clinics-card/1.png" alt="">

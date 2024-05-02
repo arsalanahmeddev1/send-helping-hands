@@ -3,7 +3,7 @@
 <section class="hero-banner banner-props">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-9">
+            <div class="col-md-6 col-lg-9  w-md-100">
                 <div class="banner-content text-center text-md-start pb-75">
                     <h5 class="fw-500 text-white fs-26 mb-30">The Greatest Wealth Is Health</h5>
                     <h1 class="banner-heading  mb-30">Maintaining Your Health <br> Is Our Way Of Taking <br> Care Of You</h1>
