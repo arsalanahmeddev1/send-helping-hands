@@ -41,7 +41,7 @@
             <div class="tutor-box">
                 <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
                     <div class="">
-                        <img src="./assets/images/tutor-img.png" alt="" class="tutor-img mb-12">
+                        <img src="./assets/images/tutor-img2.png" alt="" class="tutor-img mb-12">
                     </div>
                     <div>
                         <img src="./assets/images/Rating.png" alt="" class="star-img mb-12">
@@ -67,7 +67,7 @@
             <div class="tutor-box">
                 <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
                     <div class="">
-                        <img src="./assets/images/tutor-img.png" alt="" class="tutor-img mb-12">
+                        <img src="./assets/images/tutor-img3.png" alt="" class="tutor-img mb-12">
                     </div>
                     <div>
                         <img src="./assets/images/Rating.png" alt="" class="star-img mb-12">

@@ -17,32 +17,32 @@
         <h2 class="sec-heading text-center ">Helping you build resilience and lead fulfilling lives</h2>
         <div class="row mt-80">
          <div class="col-lg-4 col-md-6 col-sm-12">
-             <div class="image-box1 radius-20 mb-40">
+             <div class="image-box-v2-1 image-box radius-20 mb-40">
                 <p class="fw-700 fs-28 text-white mb-0 img-box-desc"> <span class="fs-17 fw-700">Date: 3-7-2023</span> <br> SEND Helping Hands establish trauma training institute in UK</p>
              </div>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-12">
-             <div class="image-box2 radius-20 mb-40">
+             <div class="image-box-v2-2 image-box radius-20 mb-40">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc"><span class="fs-17 fw-700">Date: 3-7-2023</span> <br> Supporting a Healthy Mind Through Diet & Exercise</p>
              </div>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-12">
-             <div class="image-box3 radius-20 mb-40">
+             <div class="image-box-v2-3 image-box radius-20 mb-40">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc"><span class="fs-17 fw-700">Date: 3-7-2023</span> <br> Supporting the Mental Health of your family</p>
              </div>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-12">
-             <div class="image-box4 radius-20">
+             <div class="image-box-v2-4 image-box radius-20">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc"><span class="fs-17 fw-700">Date: 3-7-2023</span> <br> Promotion Campaign For <br> Telemedicine Services</p>
              </div>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-12">
-             <div class="image-box5 radius-20">
+             <div class="image-box-v2-5 image-box radius-20">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc"><span class="fs-17 fw-700">Date: 3-7-2023</span> <br> Mental Health <br> Campaign</p>
              </div>
          </div>
          <div class="col-lg-4 col-md-6 col-sm-12">
-             <div class="image-box6 radius-20">
+             <div class="image-box-v2-6 image-box radius-20">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc"><span class="fs-17 fw-700">Date: 3-7-2023</span> <br> Nursing Scholaship <br> Program</p>
              </div>
          </div>

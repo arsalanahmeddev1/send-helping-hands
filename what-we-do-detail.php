@@ -22,7 +22,7 @@
         <p class="sec-para mb-32 text-center text-md-start">Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.</p>
       </div>
       <div class="col-md-5 d-flex justify-content-md-start justify-content-center">
-        <img src="./assets/images/who-we-are/sec-2-img.png" alt="">
+        <img src="./assets/images/what-we-do-img.png" alt="" class="radius-70">
       </div>
     </div>
   </div>

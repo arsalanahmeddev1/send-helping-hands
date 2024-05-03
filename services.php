@@ -42,7 +42,7 @@
         </button>
       </div>
       <div class="col-md-6">
-        <img src="./assets/images/service/img-1.png" alt="" class="radius-30">
+        <img src="./assets/images/service/img-2.png" alt="" class="radius-30">
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@
   <div class="container-fluid">
     <div class="row row-gap-30 align-items-center justify-content-between">
       <div class="col-md-6">
-        <img src="./assets/images/service/img-1.png" alt="" class="radius-30">
+        <img src="./assets/images/service/img-3.png" alt="" class="radius-30">
       </div>
       <div class="col-md-6">
         <h2 class="sec-heading">Respite at home</h2>
@@ -76,7 +76,7 @@
         </button>
       </div>
       <div class="col-md-6">
-        <img src="./assets/images/service/img-1.png" alt="" class="radius-30">
+        <img src="./assets/images/service/img-4.png" alt="" class="radius-30">
       </div>
     </div>
   </div>

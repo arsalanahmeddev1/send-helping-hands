@@ -18,17 +18,17 @@
         <?php include "./include/we-help.php"; ?>
         <div class="row mt-40">
          <div class="col-lg-4">
-             <div class="image-box1 radius-20 mb-40">
+             <div class="image-box help-img1 radius-20 mb-40">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc">Addiction</p>
              </div>
          </div>
          <div class="col-lg-4">
-             <div class="image-box2 radius-20 mb-40">
+             <div class="image-box help-img2 radius-20 mb-40">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc">Eating disorders</p>
              </div>
          </div>
          <div class="col-lg-4">
-             <div class="image-box3 radius-20 mb-40">
+             <div class="image-box help-img3 radius-20 mb-40">
                  <p class="fw-700 fs-28 text-white mb-0 img-box-desc">Weight management</p>
              </div>
          </div>
