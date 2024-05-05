@@ -23,7 +23,7 @@
         <h2 class="sec-heading">SEND pathway services</h2>
         <p class="sec-para mb-20">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
         <p class="sec-para mb-50">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
-        <button class="secondry-btn btn1 d-flex align-items-center " style="color: #fff !important;">Explore More
+        <button class="secondry-btn btn1 d-flex align-items-center " >Explore More
           <div class="sm-dot-2"></div>
         </button>
       </div>
@@ -37,7 +37,7 @@
         <h2 class="sec-heading">Medical Helping hands</h2>
         <p class="sec-para mb-20">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
         <p class="sec-para mb-50">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
-        <button class="secondry-btn btn1 d-flex align-items-center " style="color: #fff !important;">Explore More
+        <button class="secondry-btn btn1 d-flex align-items-center " >Explore More
           <div class="sm-dot-2"></div>
         </button>
       </div>
@@ -57,7 +57,7 @@
         <h2 class="sec-heading">Respite at home</h2>
         <p class="sec-para mb-20">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
         <p class="sec-para mb-50">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
-        <button class="secondry-btn btn1 d-flex align-items-center " style="color: #fff !important;">Explore More
+        <button class="secondry-btn btn1 d-flex align-items-center " >Explore More
           <div class="sm-dot-2"></div>
         </button>
       </div>
@@ -71,7 +71,7 @@
         <h2 class="sec-heading">Holidays & international Helping hands</h2>
         <p class="sec-para mb-20">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
         <p class="sec-para mb-50">Our holistic approach to mental wellness includes comprehensive assessments, evidence-based therapies, cutting-edge psychiatric treatments, and compassionate support to help our clients build resilience and lead fulfilling lives.</p>
-        <button class="secondry-btn btn1 d-flex align-items-center " style="color: #fff !important;">Explore More
+        <button class="secondry-btn btn1 d-flex align-items-center " >Explore More
           <div class="sm-dot-2"></div>
         </button>
       </div>

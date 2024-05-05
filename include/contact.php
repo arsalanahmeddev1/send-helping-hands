@@ -24,7 +24,7 @@
                         <textarea name="" id="" cols="30" rows="4" class="radius-30 form-control contact-input fw-500 " placeholder="Enquiry Details"></textarea>
                     </div>
                     <div class="col-12 mt-25">
-                    <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">View More
+                    <button class="secondry-btn btn1 d-flex align-items-center" >View More
                     <div class="sm-dot-2"></div>
                 </button>
                     </div>

@@ -6,14 +6,14 @@
                 <h2 class="sec-heading" style="max-width: 538px">Our Doctors have exceptional <br> knowledge and Skills</h2>
             </div>
             <div>
-                <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">View More
+                <button class="secondry-btn btn1 d-flex align-items-center" >View More
                     <div class="sm-dot-2"></div>
                 </button>
             </div>
         </div>
         <div class="tutor-slider mb-52">
             <div class="tutor-box">
-                <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
+                <div class="">
                     <div class="">
                         <img src="./assets/images/tutor-img.png" alt="" class="tutor-img mb-12">
                     </div>
@@ -23,23 +23,23 @@
                         <h6 class="tutor-title2 fw-800 mb-12 text-uppercase ">Psychiatrist</h6>
                     </div>
                     <div class="mb-18">
-                        <span class="fw-400 radius-50 mr-10">Adult ADHD</span>
-                        <span class="fw-400 radius-50 mr-10">Adult Psychiatric Disorders</span>
+                        <span class="fw-400 radius-50 ">Adult ADHD</span>
+                        <span class="fw-400 radius-50 ">Adult Psychiatric Disorders</span>
                     </div>
                     <div class="mb-30">
-                        <span class="fw-400 radius-50 mr-10">Esketamine Treatment</span>
-                        <span class="fw-400 radius-50 mr-10">Psychotic Disorders</span>
+                        <span class="fw-400 radius-50 ">Esketamine Treatment</span>
+                        <span class="fw-400 radius-50 ">Psychotic Disorders</span>
                     </div>
                     <div class="d-flex align-items-center gap-15">
                         <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                        <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                             <div class="sm-dot-2"></div>
                         </button>
                     </div>
                 </div>
             </div>
             <div class="tutor-box">
-                <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
+                <div class="">
                     <div class="">
                         <img src="./assets/images/tutor-img2.png" alt="" class="tutor-img mb-12">
                     </div>
@@ -49,23 +49,23 @@
                         <h6 class="tutor-title2 fw-800 mb-12 text-uppercase">Psychiatrist</h6>
                     </div>
                     <div class="mb-18">
-                        <span class="fw-400 radius-50 mr-10">Adult ADHD</span>
-                        <span class="fw-400 radius-50 mr-10">Adult Psychiatric Disorders</span>
+                        <span class="fw-400 radius-50 ">Adult ADHD</span>
+                        <span class="fw-400 radius-50 ">Adult Psychiatric Disorders</span>
                     </div>
                     <div class="mb-30">
-                        <span class="fw-400 radius-50 mr-10">Esketamine Treatment</span>
-                        <span class="fw-400 radius-50 mr-10">Psychotic Disorders</span>
+                        <span class="fw-400 radius-50 ">Esketamine Treatment</span>
+                        <span class="fw-400 radius-50 ">Psychotic Disorders</span>
                     </div>
                     <div class="d-flex align-items-center gap-15">
                         <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                        <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                             <div class="sm-dot-2"></div>
                         </button>
                     </div>
                 </div>
             </div>
             <div class="tutor-box">
-                <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
+                <div class="">
                     <div class="">
                         <img src="./assets/images/tutor-img3.png" alt="" class="tutor-img mb-12">
                     </div>
@@ -75,23 +75,23 @@
                         <h6 class="tutor-title2 fw-800 mb-12 text-uppercase">Psychiatrist</h6>
                     </div>
                     <div class="mb-18">
-                        <span class="fw-400 radius-50 mr-10">Adult ADHD</span>
-                        <span class="fw-400 radius-50 mr-10">Adult Psychiatric Disorders</span>
+                        <span class="fw-400 radius-50 ">Adult ADHD</span>
+                        <span class="fw-400 radius-50 ">Adult Psychiatric Disorders</span>
                     </div>
                     <div class="mb-30">
-                        <span class="fw-400 radius-50 mr-10">Esketamine Treatment</span>
-                        <span class="fw-400 radius-50 mr-10">Psychotic Disorders</span>
+                        <span class="fw-400 radius-50 ">Esketamine Treatment</span>
+                        <span class="fw-400 radius-50 ">Psychotic Disorders</span>
                     </div>
                     <div class="d-flex align-items-center gap-15">
                         <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                        <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                             <div class="sm-dot-2"></div>
                         </button>
                     </div>
                 </div>
             </div>
             <div class="tutor-box">
-                <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
+                <div class="">
                     <div class="">
                         <img src="./assets/images/tutor-img.png" alt="" class="tutor-img mb-12">
                     </div>
@@ -101,23 +101,23 @@
                         <h6 class="tutor-title2 fw-800 mb-12 text-uppercase">Psychiatrist</h6>
                     </div>
                     <div class="mb-18">
-                        <span class="fw-400 radius-50 mr-10">Adult ADHD</span>
-                        <span class="fw-400 radius-50 mr-10">Adult Psychiatric Disorders</span>
+                        <span class="fw-400 radius-50 ">Adult ADHD</span>
+                        <span class="fw-400 radius-50 ">Adult Psychiatric Disorders</span>
                     </div>
                     <div class="mb-30">
-                        <span class="fw-400 radius-50 mr-10">Esketamine Treatment</span>
-                        <span class="fw-400 radius-50 mr-10">Psychotic Disorders</span>
+                        <span class="fw-400 radius-50 ">Esketamine Treatment</span>
+                        <span class="fw-400 radius-50 ">Psychotic Disorders</span>
                     </div>
                     <div class="d-flex align-items-center gap-15">
                         <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                        <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                             <div class="sm-dot-2"></div>
                         </button>
                     </div>
                 </div>
             </div>
             <div class="tutor-box">
-                <div class="d-flex justify-content-center flex-column mx-auto align-items-center ">
+                <div class="">
                     <div class="">
                         <img src="./assets/images/tutor-img.png" alt="" class="tutor-img mb-12">
                     </div>
@@ -127,16 +127,16 @@
                         <h6 class="tutor-title2 fw-800 mb-12 text-uppercase">Psychiatrist</h6>
                     </div>
                     <div class="mb-18">
-                        <span class="fw-400 radius-50 mr-10">Adult ADHD</span>
-                        <span class="fw-400 radius-50 mr-10">Adult Psychiatric Disorders</span>
+                        <span class="fw-400 radius-50 ">Adult ADHD</span>
+                        <span class="fw-400 radius-50 ">Adult Psychiatric Disorders</span>
                     </div>
                     <div class="mb-30">
-                        <span class="fw-400 radius-50 mr-10">Esketamine Treatment</span>
-                        <span class="fw-400 radius-50 mr-10">Psychotic Disorders</span>
+                        <span class="fw-400 radius-50 ">Esketamine Treatment</span>
+                        <span class="fw-400 radius-50 ">Psychotic Disorders</span>
                     </div>
                     <div class="d-flex align-items-center gap-15">
                         <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                        <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                             <div class="sm-dot-2"></div>
                         </button>
                     </div>

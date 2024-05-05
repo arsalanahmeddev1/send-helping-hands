@@ -153,7 +153,7 @@
         <h2 class="sec-heading">Specialist SEN support <br> for children & young adults with...</h2>
       </div>
       <div>
-        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">View More
+        <button class="secondry-btn btn1 d-flex align-items-center" >View More
           <div class="sm-dot-2"></div>
         </button>
       </div>

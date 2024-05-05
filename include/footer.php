@@ -22,7 +22,7 @@
           <li class="mb-30"><a href="javasctipt:;" class="secondry-hover text-white fs-22 fw-300 secondry-hover">8:30 a.m - 10 p.m Mon - Sun</a></li>
         </ul>
       </div>
-      <div class="col-md-2 col-6">
+      <div class="col-md-2 col-4">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Social</h4>
         <ul class="social-icons">
           <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fw-300 fs-22">Facebook <span class="pl-20"><i class="fa-brands fa-facebook-f"></i></span></a></li>
@@ -30,22 +30,22 @@
           <li class=""><a href="javascript:;" class="secondry-hover text-white fw-300 fs-22">Instagram <span class="pl-20"><i class="fa-brands fa-instagram"></i></span></a></li>
         </ul>
       </div>
-      <div class="col-md-4 col-6 col-md-3">
+      <div class="col-md-4 col-8 col-md-3">
         <h4 class="footer-hd-md text-white fs-22 fw-700 mb-34">Links</h4>
         <ul class="d-flex justify-content-between footer-right">
           <div>
 
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Home</a></li>
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Who we are</a></li>
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">What we do</a></li>
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Tutoring</a></li>
+            <li class="mb-16"><a href="./" class="secondry-hover text-white fs-22 fw-300 ">Home</a></li>
+            <li class="mb-16"><a href="./who-we-are.php" class="secondry-hover text-white fs-22 fw-300 ">Who we are</a></li>
+            <li class="mb-16"><a href="./who-we-help.php" class="secondry-hover text-white fs-22 fw-300 ">What we do</a></li>
+            <li class="mb-16"><a href="./tutoring.php" class="secondry-hover text-white fs-22 fw-300 ">Tutoring</a></li>
             <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Medical Care</a></li>
           </div>
           <div class="">
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Fees</a></li>
+            <li class="mb-16"><a href="./fees.php" class="secondry-hover text-white fs-22 fw-300 ">Fees</a></li>
             <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Information Hub</a></li>
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Testimonials</a></li>
-            <li class="mb-16"><a href="javascript:;" class="secondry-hover text-white fs-22 fw-300 ">Contact</a></li>
+            <li class="mb-16"><a href="./testimonial.php" class="secondry-hover text-white fs-22 fw-300 ">Testimonials</a></li>
+            <li class="mb-16"><a href="./contact-us.php" class="secondry-hover text-white fs-22 fw-300 ">Contact</a></li>
           </div>
 
         </ul>

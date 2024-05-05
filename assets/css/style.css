@@ -235,15 +235,42 @@ p {
 .container-fluid {
   padding: 0 6.5rem;
 }
-
+.primary-btn,
 .secondry-btn {
   background-color: var(--primary-theme);
-  color: #101160 !important;
+  color: #fff;
+  transition: .6s;
+  border: 1px solid transparent !important;
 }
-
 .primary-btn {
   background-color: var(--secondry-theme);
 }
+ /* {
+  border: 1px solid  var(--primary-theme);
+} */
+
+.secondry-btn:hover,
+.primary-btn:hover {
+  background-color: transparent;
+  border: 1px solid var(--secondry-theme) !important;
+  color: var(--primary-theme) !important;
+  transform: scale(0.9);
+}
+
+.hover-secondry-btn:hover {
+  border: 1px solid var(--primary-theme) !important;
+  color: var(--primary-theme);
+}
+.secondry-btn.bg-white {
+  color: var(--primary-theme);
+}
+.primary-btn:hover .sm-dot-1 {
+  background-color: var(--secondry-theme);
+}
+.secondry-btn:hover .sm-dot-2 {
+  background-color: var(--primary-theme);
+}
+
 
 .btn1 {
   padding: 1.7rem 3.7rem 1.7rem 2.5rem;
@@ -341,6 +368,7 @@ p {
 .banner-props {
   background-size: cover;
   background-repeat: no-repeat;
+  position: relative;
 }
 
 .banner-heading {
@@ -392,9 +420,11 @@ p {
 .image-box4,
 .image-box5,
 .image-box6 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-1.png);
   min-height: 38rem;
   max-width: 57rem;
@@ -405,90 +435,127 @@ p {
 }
 
 .image-box2 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-2.png);
 }
 
 .image-box3 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-3.png);
 }
 
 .image-box4 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-4.png);
 }
 
 .image-box5 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-5.png);
 }
 
 .image-box6 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)),
+      rgb(0 0 0 / 23%)
+    ),
     url(../images/box-image-6.png);
 }
 
 .image-box-v2-1 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/blogs/blog-img-1.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/blogs/blog-img-1.png);
 }
 .image-box-v2-2 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/blogs/blog-img-2.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/blogs/blog-img-2.png);
 }
 .image-box-v2-3 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/blogs/blog-img-3.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/blogs/blog-img-3.png);
 }
 .image-box-v2-4 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/blogs/blog-img-4.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/blogs/blog-img-4.png);
 }
 .image-box-v2-5 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/blogs/blog-img-5.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/blogs/blog-img-5.png);
 }
 .image-box-v2-6 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/blogs/blog-img-6.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/blogs/blog-img-6.png);
 }
 .help-img1 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/who-we-help/help-img-1.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/who-we-help/help-img-1.png);
 }
 .help-img2 {
-  background-image: linear-gradient(to bottom,
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/who-we-help/help-img-2.png);
-}.help-img3 {
-  background-image: linear-gradient(to bottom,
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/who-we-help/help-img-2.png);
+}
+.help-img3 {
+  background-image: linear-gradient(
+      to bottom,
       rgb(0 0 0 / 0%),
-      rgb(0 0 0 / 23%)), url(../images/who-we-help/help-img-3.png);
+      rgb(0 0 0 / 23%)
+    ),
+    url(../images/who-we-help/help-img-3.png);
 }
 .img-box-desc {
   position: absolute;
   bottom: 20px;
   left: 30px;
 }
-
 /* we help end */
 /* tutor start */
 .tutor-img {
@@ -557,7 +624,7 @@ p {
   border: 1px solid;
 }
 
-.contact-form .contact-input:focus~#form-i {
+.contact-form .contact-input:focus ~ #form-i {
   color: var(--secondry-theme) !important;
 }
 
@@ -597,7 +664,6 @@ p {
   display: flex;
   align-items: center;
   gap: var(--text-10);
-
 }
 
 .address-list i {
@@ -647,11 +713,12 @@ p {
   font-size: var(--text-18);
   font-weight: 800;
   color: #2f323d;
+  white-space: nowrap;
 }
 
 .frame {
-  height: 90px;
-  width: 90px;
+  height: 9rem;
+  width: 9rem;
   background-color: var(--secondry-theme);
 }
 
@@ -808,7 +875,9 @@ p {
 .tutoring-details-sec-cont {
   max-width: 84.2rem;
 }
-
+.price-box h2 {
+  font-size: var(--text-23);
+}
 /*-------------- arsalan styling end --------------*/
 
 @media (max-width: 1440px) {
@@ -827,6 +896,9 @@ p {
   .testimonials-slider .text-primary-theme {
     font-size: var(--text-24);
   }
+  .navigation-sec .container-fluid {
+    padding: 0 2.5rem;
+  }
 }
 
 @media (max-width: 1366px) {
@@ -837,7 +909,6 @@ p {
   .who-we-are-sec-3 h2 {
     font-size: var(--text-45);
   }
-
 }
 
 @media (max-width: 1280px) {
@@ -862,6 +933,9 @@ p {
   .main-tutoring .tutoring-sec .col-md-4 {
     padding: 0;
   }
+  .nav-links li a {
+    font-size: var(--text-15);
+  }
 }
 
 @media (max-width: 1024px) {
@@ -871,6 +945,22 @@ p {
 
   .topbar-para span {
     font-size: var(--text-15);
+  }
+  .banner-props button,
+  .banner-props h5,
+  .banner-props h1 {
+    z-index: 1;
+  }
+  .banner-props::before {
+    content: '';
+    height: 100%;
+    width: 100%;
+    background-color: #00000052;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+
   }
 }
 
@@ -1056,8 +1146,10 @@ p {
     padding-right: 0;
     padding-left: 0;
   }
+  .step-box br {
+    display: none;
+  }
 }
-
 @media (max-width: 480px) {
   .tutoring-details-sec-cont {
     justify-content: center !important;
@@ -1066,9 +1158,7 @@ p {
 }
 
 @media (max-width: 400px) {
-
   .topbar .container-fluid {
     padding: 0;
   }
-
 }

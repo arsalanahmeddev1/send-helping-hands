@@ -70,7 +70,7 @@
                         <input type="number" class="radius-30 form-control contact-input fw-500" placeholder="Your Number">
                     </div>
                     <div class="col-12 mt-60">
-                        <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Make an appointment
+                        <button class="secondry-btn btn1 d-flex align-items-center" >Make an appointment
                             <div class="sm-dot-2"></div>
                         </button>
                     </div>

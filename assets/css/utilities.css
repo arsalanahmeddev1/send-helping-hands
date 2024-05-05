@@ -6805,6 +6805,7 @@
 }
 .secondry-hover:hover {
   color: var(--secondry-theme) !important;
+  transition: 0.4s;
 }
 /* font size end */
 /* font weight starts */

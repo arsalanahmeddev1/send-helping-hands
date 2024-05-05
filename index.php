@@ -7,7 +7,7 @@
                 <div class="banner-content text-center text-md-start pb-75">
                     <h5 class="fw-500 text-white fs-26 mb-30">The Greatest Wealth Is Health</h5>
                     <h1 class="banner-heading  mb-30">Maintaining Your Health <br> Is Our Way Of Taking <br> Care Of You</h1>
-                    <button class="mx-auto mx-md-0  secondry-btn bg-white btn1 text-primary-theme d-flex align-items-center pr-20">Explore More
+                    <button class="mx-auto mx-md-0  secondry-btn bg-white btn1 hover-white-btn text-primary-theme d-flex align-items-center pr-20 ">Explore More
                         <div class="sm-dot-2"></div>
                     </button>
                 </div>
@@ -62,7 +62,7 @@
                 <h2 class="sec-heading">Specialist SEN support <br> for children & young adults with...</h2>
             </div>
             <div>
-                <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">View More
+                <button class="secondry-btn btn1 d-flex align-items-center" >View More
                     <div class="sm-dot-2"></div>
                 </button>
             </div>

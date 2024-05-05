@@ -235,7 +235,7 @@
                 </div>
                 <div class="d-flex align-items-center gap-15">
                   <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                  <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                  <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                     <div class="sm-dot-2"></div>
                   </button>
                 </div>
@@ -261,7 +261,7 @@
                 </div>
                 <div class="d-flex align-items-center gap-15">
                   <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                  <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                  <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                     <div class="sm-dot-2"></div>
                   </button>
                 </div>
@@ -287,7 +287,7 @@
                 </div>
                 <div class="d-flex align-items-center gap-15">
                   <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                  <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                  <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                     <div class="sm-dot-2"></div>
                   </button>
                 </div>
@@ -313,7 +313,7 @@
                 </div>
                 <div class="d-flex align-items-center gap-15">
                   <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                  <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                  <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                     <div class="sm-dot-2"></div>
                   </button>
                 </div>
@@ -339,7 +339,7 @@
                 </div>
                 <div class="d-flex align-items-center gap-15">
                   <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                  <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                  <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                     <div class="sm-dot-2"></div>
                   </button>
                 </div>
@@ -365,7 +365,7 @@
                 </div>
                 <div class="d-flex align-items-center gap-15">
                   <a href="" class="text-secondry-theme fs-18 fw-700">View Details</a>
-                  <button class="secondry-btn btn1 d-flex align-items-center" style="color: #fff !important;">Book Now
+                  <button class="secondry-btn btn1 d-flex align-items-center" >Book Now
                     <div class="sm-dot-2"></div>
                   </button>
                 </div>
